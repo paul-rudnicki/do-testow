@@ -1,0 +1,5 @@
+<?php
+
+Ala ma kota
+
+?>
